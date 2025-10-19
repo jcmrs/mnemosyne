@@ -1,6 +1,6 @@
 # Mnemosyne
 
-## Active
+## Project Status
 - Research Stage Active
 
 ## Thematic Longform Narrative
