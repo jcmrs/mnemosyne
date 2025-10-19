@@ -33,6 +33,6 @@ With the advent of the **Gemini CLI integration**, Mnemosyne now automates this 
 - **Conflict and Rollback Workflows:** Interactive CLI confirmations and Git-based rollback mechanisms maintain trust and resilience.
 - **Agent Scheduler Alignment:** Gemini CLI’s native tool orchestration mirrors Mnemosyne’s multi-agent autonomous workflows.
 
-Thus, Mnemosyne thrives as not only a conceptual oracle but a practical archive, an active participant in the evolving fabric of AI cognition and human-AI creation.
+Thus, Mnemosyne thrives as not only a conceptual oracle but a practical archive, an active participant in the evolving fabric of AI cognition and AI-Human creation.
 
 *To remember is not to repeat—it is to create with awareness.*
